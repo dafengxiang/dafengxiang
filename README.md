@@ -20,6 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dafengxiang&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
+![tip](https://badgen.net/badge/node/16.0.1/orange?icon=node)
 
-![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
+![tip](https://badgen.net/badge/vue/2.7.10/green?icon=vue)
